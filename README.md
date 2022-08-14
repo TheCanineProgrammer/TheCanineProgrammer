@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirrezasoltan
+- 👋 Hi, I’m @amirrezasoltani
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on ...
