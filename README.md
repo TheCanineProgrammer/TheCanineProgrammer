@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @amirrezasoltani
+- 👋 Hi, I’m The Canine Programmer
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning machine learning with python
 - 📫 You can reach me with my gmail address: charleswestmorelandPB1@gmail.com
 
 <!---
