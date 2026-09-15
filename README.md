@@ -1,7 +1,10 @@
 # Hi 👋, I'm The CaPr
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate;Python+programmer;AI+enthusiast;mathematics+lover" style = "width:50%" alt="Typing SVG" /></a>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate;Python+programmer;AI+enthusiast;mathematics+lover" alt="Typing SVG" />
+  </a>
+</p>
 ### 🏆 Achievements
 
 - 🥇 **Gold Medalist** — Singapore and Asian Schools Math Olympiad (SASMO) 2026
