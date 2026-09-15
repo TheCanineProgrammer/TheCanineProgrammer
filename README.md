@@ -2,8 +2,6 @@
 
 ### A passionate Python programmer, AI enthusiast, and mathematics lover
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheCanineProgrammer&label=Profile views&color=0e75b6&style=flat" alt="TheCanineProgrammer" /> </p>
-
 ### 🏆 Achievements
 
 - 🥇 **Gold Medalist** — Singapore and Asian Schools Math Olympiad (SASMO) 2026
