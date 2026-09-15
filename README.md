@@ -1,6 +1,6 @@
 # Hi 👋, I'm The CaPr
 
-### A passionate Python programmer, AI enthusiast, and mathematics lover
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate;Python+programmer;AI+enthusiast;mathematics+lover" alt="Typing SVG" /></a>
 
 ### 🏆 Achievements
 
