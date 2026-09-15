@@ -6,8 +6,10 @@
   </a>
 </p>
 
+# 🚀 About Me
 
-### 🏆 Achievements
+I am a passionate Python programmer, AI enthusiast, and mathematics lover with a strong interest in problem-solving and technology.
+I have participated in several international mathematics and informatics competitions, earning achievements including:
 
 - 🥇 **Gold Medalist** — Singapore and Asian Schools Math Olympiad (SASMO) 2026
 - 🥇 **Gold Medalist** — International Junior Informatics Olympiad (IJIO) 2026
@@ -17,6 +19,8 @@
 - 🎖️ **Distinction Award** — Fermat Contest, University of Waterloo 2025
 - 🌍 **World Finalist** — Iranian Geometry Olympiad 2025
 - 🧮 **First-Round Qualifier** — Iranian Mathematics Olympiad (IrMO) 2025
+
+I am currently focused on strengthening my skills in Python programming and artificial intelligence, particularly in developing machine-learning models and applying AI to real-world problems. I am always eager to learn, take on new challenges, and grow in these fields.
 
 - 📫 How to reach me **amirrezaprogramming1387@gmail.com**
 
