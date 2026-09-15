@@ -6,12 +6,12 @@
 
 - 🥇 **Gold Medalist** — Singapore and Asian Schools Math Olympiad (SASMO) 2026
 - 🥇 **Gold Medalist** — International Junior Informatics Olympiad (IJIO) 2026
-- 🥈 **Silver Medalist** — American Mathematics Olympiad (AMO)
-- 💯 **First-Round Perfect Scorer** — Singapore Mathematics Assessment (SINGA)
-- 🎖️ **Distinction Award** — Canadian Computing Competition (CCC), University of Waterloo
-- 🎖️ **Distinction Award** — Fermat Contest, University of Waterloo
-- 🌍 **World Finalist** — Iranian Geometry Olympiad
-- 🧮 **First-Round Qualifier** — Iranian Mathematics Olympiad (IrMO)
+- 🥈 **Silver Medalist** — American Mathematics Olympiad (AMO) 2024
+- 💯 **First-Round Perfect Scorer** — Singapore Mathematics Assessment (SINGA) 2025
+- 🎖️ **Distinction Award** — Canadian Computing Competition (CCC), University of Waterloo 2025
+- 🎖️ **Distinction Award** — Fermat Contest, University of Waterloo 2025
+- 🌍 **World Finalist** — Iranian Geometry Olympiad 2025
+- 🧮 **First-Round Qualifier** — Iranian Mathematics Olympiad (IrMO) 2025
 
 - 📫 How to reach me **amirrezaprogramming1387@gmail.com**
 
