@@ -20,9 +20,6 @@ I have participated in several international mathematics and informatics competi
 - 🌍 **World Finalist** — Iranian Geometry Olympiad 2025
 - 🧮 **First-Round Qualifier** — Iranian Mathematics Olympiad (IrMO) 2025
 
-- 🌱 Currently learning **AI, foreign languages (especially Spanish)**
-- 💬 Ask me about **Machine Learning, Python**
-
 I am currently focused on strengthening my skills in Python programming and artificial intelligence, particularly in developing machine-learning models and applying AI to real-world problems. I am always eager to learn, take on new challenges, and grow in these fields.
 
 - 📫 How to reach me **amirrezaprogramming1387@gmail.com**
