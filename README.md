@@ -17,7 +17,7 @@ I have participated in several international mathematics and informatics competi
 - 💯 **First-Round Perfect Scorer** — Singapore Mathematics Assessment (SINGA) 2025
 - 🎖️ **Distinction Award** — Canadian Computing Competition (CCC), University of Waterloo 2025
 - 🎖️ **Distinction Award** — Fermat Contest, University of Waterloo 2025
-- 🌍 **World Finalist** — Iranian Geometry Olympiad 2025
+- 🌍 **World Finalist** — Iranian Geometry Olympiad (IGO) 2025
 - 🧮 **First-Round Qualifier** — Iranian Mathematics Olympiad (IrMO) 2025
 
 I am currently focused on strengthening my skills in Python programming and artificial intelligence, particularly in developing machine-learning models and applying AI to real-world problems. I am always eager to learn, take on new challenges, and grow in these fields.
