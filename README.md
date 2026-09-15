@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/TheCanineProgrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TheCanineProgrammer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amirrezasoltani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirrezasoltani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amirrezasoltani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirrezasoltani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19368609/amirreza-soltani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19368609/amirreza-soltani" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/The_CaPr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="The_CaPr" height="30" width="40" /></a>
 <a href="https://leetcode.com/The_Canine_Programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="The_Canine_Programmer" height="30" width="40" /></a>
